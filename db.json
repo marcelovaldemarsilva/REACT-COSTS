@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Teste",
+      "budget": "1500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1200,
+      "services": [
+        {
+          "name": "Desenvolvimento",
+          "cost": "1200",
+          "descruption": "teste",
+          "id": "ede7b124-c477-4d63-b26b-b6a9279c01cb"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
